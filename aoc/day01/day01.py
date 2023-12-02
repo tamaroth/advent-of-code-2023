@@ -48,5 +48,5 @@ def replace_digit_word(line: str) -> str:
 if __name__ == "__main__":
     with open("aoc/day01/input_day01.txt") as f:
         data = f.read().splitlines()
-    print(part1(data))
-    print(part2(data))
+    part1(data)
+    part2(data)
