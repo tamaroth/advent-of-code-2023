@@ -10,4 +10,5 @@ def timeit(func):
         print(f"Execution time of {func.__name__}: {execution_time:.2f} milliseconds")
         print(f"{func.__name__} result: {result}")
         return result
+
     return wrapper

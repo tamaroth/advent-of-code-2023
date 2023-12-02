@@ -32,7 +32,7 @@ def replace_digit_word(line: str) -> str:
         "six",
         "seven",
         "eight",
-        "nine"
+        "nine",
     ]
     new_line = ""
     for i, char in enumerate(line):
