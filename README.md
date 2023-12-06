@@ -7,7 +7,7 @@
 | 3   | 2023-12-03 | [Gear Ratios](https://adventofcode.com/2023/day/3) | 3.33ms | 2.87ms |
 | 4   | 2023-12-04 | [Scratchcards](https://adventofcode.com/2023/day/4) | 2.18ms | 2.03ms |
 | 5   | 2023-12-05 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | 1ms | 2.93h |
-| 6   | 2023-12-06 |               |               |               |
+| 6   | 2023-12-06 | [Wait For It](https://adventofcode.com/2023/day/5) | 0.11ms | 2.46s |
 | 7   | 2023-12-07 |               |               |               |
 | 8   | 2023-12-08 |               |               |               |
 | 9   | 2023-12-09 |               |               |               |
