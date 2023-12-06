@@ -6,7 +6,7 @@
 | 2   | 2023-12-02 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | 0.93ms | 0.69ms |
 | 3   | 2023-12-03 | [Gear Ratios](https://adventofcode.com/2023/day/3) | 3.33ms | 2.87ms |
 | 4   | 2023-12-04 | [Scratchcards](https://adventofcode.com/2023/day/4) | 2.18ms | 2.03ms |
-| 5   | 2023-12-05 |               |               |               |
+| 5   | 2023-12-05 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | 1ms | 2.93h |
 | 6   | 2023-12-06 |               |               |               |
 | 7   | 2023-12-07 |               |               |               |
 | 8   | 2023-12-08 |               |               |               |
